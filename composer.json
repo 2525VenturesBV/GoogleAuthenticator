@@ -1,7 +1,7 @@
 {
-    "name": "phpgangsta/googleauthenticator",
+    "name": "2525VenturesBV/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "library",
     "keywords": ["GoogleAuthenticator", "TOTP", "rfc6238"],
     "license": "BSD-4-Clause",
@@ -13,16 +13,12 @@
             "role": "Developer"
         }
     ],
-    "support": {
-        "source": "https://github.com/PHPGangsta/GoogleAuthenticator",
-        "issues": "https://github.com/PHPGangsta/GoogleAuthenticator/issues"
-    },
     "require": {
         "php": ">=5.3"
     },
-	"autoload": {
-		"classmap": ["PHPGangsta/GoogleAuthenticator.php"]
-	}
+    "autoload": {
+        "classmap": ["PHPGangsta/GoogleAuthenticator.php"]
+    }
 }
 
 
