@@ -1,18 +1,10 @@
 {
-    "name": "2525VenturesBV/googleauthenticator",
+    "name": "2525ventures/google-authenticator",
     "description": "Google Authenticator 2-factor authentication",
     "version": "1.0.3",
     "type": "library",
     "keywords": ["GoogleAuthenticator", "TOTP", "rfc6238"],
     "license": "BSD-4-Clause",
-    "authors": [
-        {
-            "name": "Michael Kliewe",
-            "email": "info@phpgangsta.de",
-            "homepage": "http://www.phpgangsta.de/",
-            "role": "Developer"
-        }
-    ],
     "require": {
         "php": ">=5.3"
     },
